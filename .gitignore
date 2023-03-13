@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/shared/build/
+/shared/build/classes/kotlin/jvm/main/
+/shared/build/classes/kotlin/jvm/test/
+/shared/build/intermediates/javac/debug/classes/
