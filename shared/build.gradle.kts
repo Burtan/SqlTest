@@ -19,7 +19,7 @@ kotlin {
                 api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 
                 // database extension
-                implementation("app.cash.sqldelight:coroutines-extensions:2.0.0-SNAPSHOT")
+                implementation("app.cash.sqldelight:coroutines-extensions:2.3.2")
             }
         }
         val commonTest by getting {
