@@ -16,7 +16,7 @@ kotlin {
         val commonMain by getting {
             dependencies {
                 // coroutines
-                api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+                api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
 
                 // database extension
                 implementation("app.cash.sqldelight:coroutines-extensions:2.0.0-SNAPSHOT")
