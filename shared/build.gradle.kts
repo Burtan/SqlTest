@@ -40,7 +40,7 @@ kotlin {
         val androidUnitTest by getting {
             dependencies {
                 implementation("junit:junit:4.13.2")
-                implementation("org.robolectric:robolectric:4.9.2")
+                implementation("org.robolectric:robolectric:4.17")
             }
         }
 
